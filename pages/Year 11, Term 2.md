@@ -1,0 +1,32 @@
+### **Water potential (D2.3)**
+	- **Describe osmosis.**#card
+		- Osmosis is movement of water from a low solute concentration to a high solute concentration.
+	- **What is osmolarity?**#card
+		- Measurement of solute concentration of a solution
+	- **What is hypotonic?**#card
+		- Lower solute concentration, high water potential
+	- **What is isotonic?**#card
+		- Same solute concentration
+	- **What is hypertonic?**#card
+		- Higher solute concentration, low water potential
+	- **What does it mean to be in equilibrium across a membrane?**#card
+		- Water molecules continue moving but there is no net movement due to having the same solute concentrations on either side.
+	- **Why do IV's used to rehydrate people have saline (salt) in them?**#card
+		- If it is too hypotonic (when it hypothetically has pure water), it can cause the cells to burst as person is rehydrated too fast. IV's usually have isotonic solutions (Ringer's solution) relative to the person's blood plasma to prevent shrivelling or bursting.
+	- **What would happen when animal cells are placed in a hypertonic solution?**#card
+		- It would shrivel (water leaves the cell).
+	- **What would happen when animal cells are placed in a hypotonic solution?**#card
+		- It would swell and undergo lysis (burst) (as the water enters the cell)
+	- **What happens when plant cells are placed in a hypertonic solution?**#card
+		- They become plasmolysed. The vacuole within the cell shrivels but the plant cells themselves do not die due to their cell membrane moving away from the cell wall, allowing them to be rehydrated.
+	- **What happens when plant cells are placed in a hypotonic solution?**#card
+		- They become turgid, which is ideal for them. The water enters the cytoplasm and then the vacuole, causing the cell membrane to be pushed against the cell wall. The cell wall is rigid, thus there is a maximum amount the cell membrane can swell, and they will not undergo lysis, which makes them strong.
+	- **What is the ideal condition for plants?**#card
+		- Being turgid due to being in a hypotonic solution, as the water helps them have support.
+	- **What happens when plant cells are placed in an isotonic solution?**#card
+		- The vacuole within the cell is neither fully filled or shrivelled. There is no net movement of water in and out of the cell. In this case, the cell wall can be
+	- **What adaptations do unicellular organisms have to survive hypertonic/hypotonic solutions?**#card
+		- They have contractile vacuoles to expel water to prevent bursting in hypotonic solutions.
+	- **What are contractile vacuoles?**#card
+		- They get filled with water and expand but then expel the water, maintaining homeostasis.
+	-
