@@ -1,4 +1,6 @@
-### **Water potential (D2.3)**
+- {{cards([[y11t2]])}}
+- ### **Water potential (D3.3)**
+  collapsed:: true
 	- **Describe osmosis.**#card
 		- Osmosis is movement of water from a low solute concentration to a high solute concentration.
 	- **What is osmolarity?**#card
@@ -30,3 +32,51 @@
 	- **What are contractile vacuoles?**#card
 		- They get filled with water and expand but then expel the water, maintaining homeostasis.
 	-
+- ### B2.2 Organelles and comparmentalisation
+	- What are organelles? #card
+		- Compartmentalised, subcellular structures found within a cell which have specific functions. Cell walls, cytoplasms and cytoskeletons are **not** considered organelles.
+	- What is cell fractionation and how did it help scientists learn about cells? #card
+		- It is used to isolate different organelles to be studied by breaking apart cells. Cells must be submerged in a cold (to reduce enzyme activity to prevent damage to organelles), isotonic (to prevent shriveling or bursting of **organelles**) and buffered (to keep a constant pH) solution. There are two steps:
+		- Homogenisation (breaking apart using a blender and filtration to remove large cell debris)
+		  logseq.order-list-type:: number
+		- Ultracentrifguation (differential centrifugation where it is spun at different stages and at each stage the supernated (liquid) is removed to leave a pellet of a specific organelle, this is repeated)
+		  logseq.order-list-type:: number
+	- Describe the process of ultracentrifugation in cell fraction. #card
+		- The filtered solution is spun at a low speed by a centrifuge.
+		  logseq.order-list-type:: number
+		- The densest pellet is at the bottom.
+		  logseq.order-list-type:: number
+		- The supernated solution (at the top) is removed to leave the pellet of an organelle.
+		  logseq.order-list-type:: number
+		- The process is repeated with faster and faster speeds.
+		  logseq.order-list-type:: number
+	- Describe the order of pellets formed by ultracentrifugation. #card
+		- Nuclei -> chloroplast (in a plant cell) -> mitochondria -> lysosome -> endoplasmic reticulum -> ribosomes
+	- What is the advantage of the separation of the nucleus and cytoplasm into separate compartments? #card
+		- It allows process of transcription of mRNA to be separated from other metabolic processes within the cell. It also ensures DNA is protected from harmful reactions in the cytoplasm.
+	- What is compartmentalisation? #card
+		- Process of creating separation within cells. Organelles are an example of this which allow for greater efficiency and provide a protective environment for specialised activities which are not compatible with other metabolic processes.
+	- What are lysosomes? #card
+		- Organelles that contain enzymes to digest macromolecules and digest cell components. For example, if the cell is damaged, the enzymes are released which leads to its digestion.
+- ### B2.3 Cell specialisation
+	- What is SAV (surface area to volume ratio)? #card
+		- Mathematical ratio between surface area to volume that can help describe the efficiency of the cell.
+	- What effect does compartmentalisation have on SAV? #card
+		- It increases surface area to volume ratio which increases efficiency of cell processes and increases absorption etc.
+	- Though smaller cells have greater SAV, why are cells that are too small not necessarily optimal? #card
+		- If the volume is too low, it cannot hold enough organelles to carry out many cell functions, which actually reduces efficiency. So both surface area and volume are important.
+	- What is a stem cell? #card
+		- Undifferentiated cells which have an unlimited capacity to divide and can differentiate into specalised cells. They change through differential gene expression.
+	- What type of stem cells are adult stem cells? #card
+		- Multipotent
+	- What is a totipotent stem cell? #card
+		- Stem cells that can differentiate into all types of cells or develop into an embryo.
+	- What is a unipotent stem cell? #card
+	- What is a pluripotent? #card
+		- Cells that can differentiate into all types of cells, except
+	- What are morphogens? #card
+		- Group of gene regulating chemicals which determine the specialised cell that develops according to their concentration.
+	- What are stem cell niches? #card
+		- Locations in the body where stem cells can be maintained or promoted to proliferate and differentiate. For example, bone marrow is a niche for hematopoietic stem cells, hair follicles contain many types of stem cells, such as epithelial, mesenchymal (hair) cells that can self-renew, differentiate, regulate hair growth and maintain skin homeostasis.
+	- How do stem cells divide? #card
+		- They divide asymmetrically through mitosis, where one becomes another stem cell after division, but the other becomes a differentiated cell. This prolongs the life of the stem cell (as it makes a copy of itself).

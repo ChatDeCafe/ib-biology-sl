@@ -1,0 +1,12 @@
+### B2.3
+	- What is fertilisation? #card
+		- The fusion of gametes.
+	- What type of stem cell is the zygote? #card
+		- Totipotent
+	- What type of stem cell is embryonic? #card
+		- Pluripotent
+	- What is a blastocyte and what type of stem cell is it? #card
+		- A developed zygote that has become a blastocyte over 5 days. It contains embryonic stem cells and are pluripotent.
+	- What are hematopoietic stem cells? #card
+		- Multipotent stem cells that can differentiate into all types of blood cells but not other types of cells.
+-
