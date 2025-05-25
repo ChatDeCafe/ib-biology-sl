@@ -33,6 +33,7 @@
 		- They get filled with water and expand but then expel the water, maintaining homeostasis.
 	-
 - ### B2.2 Organelles and comparmentalisation
+  collapsed:: true
 	- What are organelles? #card
 		- Compartmentalised, subcellular structures found within a cell which have specific functions. Cell walls, cytoplasms and cytoskeletons are **not** considered organelles.
 	- What is cell fractionation and how did it help scientists learn about cells? #card
@@ -80,3 +81,72 @@
 		- Locations in the body where stem cells can be maintained or promoted to proliferate and differentiate. For example, bone marrow is a niche for hematopoietic stem cells, hair follicles contain many types of stem cells, such as epithelial, mesenchymal (hair) cells that can self-renew, differentiate, regulate hair growth and maintain skin homeostasis.
 	- How do stem cells divide? #card
 		- They divide asymmetrically through mitosis, where one becomes another stem cell after division, but the other becomes a differentiated cell. This prolongs the life of the stem cell (as it makes a copy of itself).
+- ### D2.1 Cell and Nuclear Division
+	- What is cell division? #card
+		- Division of a parent cell to produce two daughter cells and occurs in all living organisms.
+	- Why does cell division occur? #card
+		- To grow and to replace dead or damaged cells.
+	- What is cytokinesis? #card
+		- The splitting of the cytoplasm of a parent cell to form two daughter cells and occurs after nuclear division.
+	- How does cytokinesis occur in animal cells? #card
+		- It occurs through a contractile ring made with actin and myosin filaments that pull and create a cleavage furrow, which deepens until the cell divides.
+	- How does cytokinesis occur in plant cells? #card
+		- The Golgi apparatus produces vesicles of carbohydrates that move to the equator of the cell. The vesicles fuse to form a cell plate. The membranes fuse to existing membrane on either side of the cell plate to form two separate cells. Cellulose is secreted to form the cell wal.
+	- Describe unequal division of the cytoplasm. #card
+		- When cytokinesis does not equally divide the cytoplasm between two daughter cells. An example is budding in yeast, where yeast cell quickly divides to conserve energy and to survive in unfavourable conditions.
+	- What are cells without a nucleus called? #card
+		- Anucleate
+	- What is mitosis? #card
+		- Nuclear division that produces two genetically identical daughter nuclei. It is required for growth and development and tissue repair.
+	- Describe cell cycle. #card
+		- Interphase (90% of the time): DNA is uncondensed into chromatin, is replicated and the cell grows in size.
+		- Mitosis (10% of the time): Cell division.
+	- Describe the process of mitosis. #card
+		- Prophase: Chromosomes condense by histone proteins and become thicker. Spindle fibres are developed. Number - 2n.
+		- Metaphase: Chromosomes line up in the equator of the cell. Spindle fibres attach to the centromeres through kinetochores. Spindle fibres contract. Number - 2n.
+		- Anaphase: Spindle fibres separate sister chromatids to the sides of the cells as spindle fibres continue to contract.  Mictrotubule spindle fibres are held by centrioles. Number - 4n
+		- Telophase: 2 new nuclei is formed surrounding the chromosomes, allowing 2 identical cells to form in cytokinesis. Chromatids turns into chromatid threads and becomes thin. Number - 4n.
+		- Cytokinesis: Final cell separation through actin and myosin.
+	- When our DNA is duplicated in interphase, why do we still have 46 chromosomes? #card
+		- We have 46 chromatids before replication which is called 46 chromosomes but this duplicates to 92 chromatids but 46 centromeres, which makes 46 chromosomes.
+	- What is meiosis? #card
+		- Nuclear division which produces four daughter cells each with half the chromosomes as the parent cell. It is a form of reduction division.
+	- How does meiosis contribute to genetic variety? #card
+		- Crossing over
+	- Describe the process of meoisis. #card
+		- PMAT 1 (meoisis I)
+			- Prophase 1 - chromosomes condense and line up with their homologous pairs and cross over, forming recombinant chromosomes
+			- Metaphase 1 - chromosomes line up in the middle where independent assortment occurs where chromosomes are randomly separated (with $2^{23}$ combinations)
+		- PMAT 2 (meosis II)
+	- How can genetic variation happen? #card
+		- Crossing over, independent assortment
+	- What is nondisjunction? #card
+		- When chromosomes in anaphase are not split properly, leading to either too little or two many chromosomes. This can lead to Down syndrome.
+	- What is Down syndrome? #card
+		- A disease caused mainly by trisomy 21 but also monosomy 21. It causes intellectual disabilities, heart defects and facial defects.
+	- Describe DNA replication. #card
+		- It produces two identical copies of a DNA molecule. It produces two identical copies of the chromosome DNA held by centromeres.
+	- How do chromosomes condense? #card
+		- DNA initially exists as chromatin. DNA coils around histone proteins to form nucleosomes. The nucleosomes then coil around each other to form two sister chromatids attached at the centrosome to create a chromosome.
+	- What is the haploid number in humans?#card
+		- 23
+	- What is the diploid number in humans? #card
+		- 46
+	- What are homologous chromosomes? #card
+		- They have the same genes in the same aleles but may have different alleles.
+	- Compare and contrast mitosis and meoisis. #card
+		- |Type|Mitosis|Meiosis|
+		  |----|------|-------|
+		  |Divisions (PMAT)| Once | Twice|
+		  |Independent assortment| no | yes |
+		  |Synapsis| no | yes |
+		  |Crossing over| no | yes |
+		  |Outcome| 2 daughter cells| 4 daughter cells |
+		  |Ploidy| 46 chromosomes | 23 chromosomes |
+		  |Genetics| Aim to preserve the genome | Aim to create genetic diversity |
+		  | Purpose | Makes new cells | Makes new cells |
+		  | Start | 2n (diploid) | 2n (diploid) |
+		  | Result | 2n (diploid) identical | n (haploid) non-identical |
+		-
+		-
+		-

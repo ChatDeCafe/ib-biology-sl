@@ -5,8 +5,11 @@
 		- Totipotent
 	- What type of stem cell is embryonic? #card
 		- Pluripotent
+	- When does the zygote become pluripotent from totipotent? #card
+		- After it forms the placenta and the umbilical cord.
 	- What is a blastocyte and what type of stem cell is it? #card
 		- A developed zygote that has become a blastocyte over 5 days. It contains embryonic stem cells and are pluripotent.
 	- What are hematopoietic stem cells? #card
 		- Multipotent stem cells that can differentiate into all types of blood cells but not other types of cells.
--
+	- How is an oogenesis an example of unequal division? #card
+		- Oogonium divides into a primary oocyte and polar body in a process called oogenesis. This helps form an ovum with as many organelles as possible. Maturation occurs at puberty as well.
