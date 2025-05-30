@@ -1,6 +1,5 @@
 - {{cards([[y11t2]])}}
 - ### **Water potential (D3.3)**
-  collapsed:: true
 	- **Describe osmosis.**#card
 		- Osmosis is movement of water from a low solute concentration to a high solute concentration.
 	- **What is osmolarity?**#card
@@ -31,9 +30,7 @@
 		- They have contractile vacuoles to expel water to prevent bursting in hypotonic solutions.
 	- **What are contractile vacuoles?**#card
 		- They get filled with water and expand but then expel the water, maintaining homeostasis.
-	-
 - ### B2.2 Organelles and comparmentalisation
-  collapsed:: true
 	- What are organelles? #card
 		- Compartmentalised, subcellular structures found within a cell which have specific functions. Cell walls, cytoplasms and cytoskeletons are **not** considered organelles.
 	- What is cell fractionation and how did it help scientists learn about cells? #card
@@ -150,3 +147,50 @@
 		-
 		-
 		-
+- ### C1.2 Cell respiration
+	- What is ATP? #card
+		- Adenosine triphosphate is a nucleic acid that consists of adenine, ribose and three phosphates. Adenine is also a base in a DNA and ribose is the sugar in DNA. There are two high energy bonds (which are unstable and weak due to repelling electron clouds) between the phosphates. When broken through hydrolysis, they release high amounts of energy, which is exothermic and an inorganic phosphate ($P_i$).
+		  ![image.png](../assets/image_1748220011747_0.png){:height 179, :width 401}
+	- How does the regeneration of ATP occur from ADP? #card
+		- Through condensation and cellular respiration, through both aerobic and anaerobic (fermentation)
+		- ![image.png](../assets/image_1748220465261_0.png)
+	- What is ADP? #card
+		- ATP with one less phosphate, which is more stable.
+	- What is an example of a cell that usually requires ATP?
+	- What is anabolism? #card
+		- Creation of bonds and larger molecules
+	- What is catabolism? #card
+		- Breaking of bonds and turning larger molecules into smaller molecules.
+	- Metabolism consists of... #card
+		- Anabolism and catabolism
+	- What is the word reaction for aerobic cellular respiration? #card
+		- $\text{glucose}+\text{oxygen}\rightarrow \text{carbon dioxide}+\text{water}$
+	- What is the equation for aerobic cellular respiration? #card
+		- $C_6H_{12}O_6 +6O_2\rightarrow CO_2+6H_2O$
+	- How is energy used in our body? #card
+		- To build large molecules, maintain body temperature and muscular contraction
+	- What is aerobic respiration? #card
+		- It is a form of respiration that requires oxygen and is more common
+	- What is anaerobic respiration? #card
+		- A form of respiration that does not require oxygen. It causes a buildup of lactic acid and does not fully oxidise the glucose, making it less common and less used. An example is fermentation (glucose -> ethanol + carbon dioxide)
+	- What is the word equation for anaerobic respiration in animals? #card
+		- Glucose -> lactic acid
+	- When lactate leaves our muscles, what happens? #card
+		- A process called repaying the oxygen date occurs where it goes back to pyruvate happens which can then go to aerobic respiration.
+	- Why is lactic acid harmful to our body? #card
+		- It is toxic
+	- Why is the cytoplasm required for respiration? #card
+		- Glycolysis can occur in the cytoplasm but then the mitochondria is required to be broken down further
+	- What is the difference between aerobic and anaerobic respiration? #card
+		- | Difference | Aerobic | Anaerobic |
+		  |----------|-------------|--------|
+		  | Oxygen | Yes | No |
+		  | Efficiency | More | Less|
+		  | Yield | 36 ATP | 2 ATP |
+		  | Waste product | Carbon dioxide and water | Lactate (toxic)|
+		  | Continuous/always happening? | Yes | No, only when necessary|
+		  | Location | Mitochondria and cytoplasm | Cytoplasm only|
+	- How to measure the rate of respiration? #card
+		- $\text{Rate} \frac{\text{text}}{\text{text}}$
+		- A respirometer is used
+-
